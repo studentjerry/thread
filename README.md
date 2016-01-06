@@ -1,3 +1,0 @@
-# thread
-thread  test
-#push 
